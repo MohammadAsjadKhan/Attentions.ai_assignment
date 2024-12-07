@@ -29,8 +29,8 @@ Welcome to the **One Day Travel Itenrary Planner**, a Streamlit-based applicatio
 ### Setup Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mohammadasjadkhan/ai-vacation-planner.git
-   cd ai-vacation-planner
+   git clone https://github.com/mohammadasjadkhan/Attentions.ai_assignment.git
+   cd Attentions.ai_Asiignment
    ```
 2. Install required dependencies:
    ```bash
