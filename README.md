@@ -30,7 +30,7 @@ Welcome to the **One Day Travel Itenrary Planner**, a Streamlit-based applicatio
 1. Clone this repository:
    ```bash
    git clone https://github.com/mohammadasjadkhan/Attentions.ai_assignment.git
-   cd Attentions.ai_Asiignment
+   cd Attentions.ai_assignment
    ```
 2. Install required dependencies:
    ```bash
