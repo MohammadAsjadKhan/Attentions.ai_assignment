@@ -55,13 +55,6 @@ Welcome to the **One Day Travel Itenrary Planner**, a Streamlit-based applicatio
 
 ---
 
-## Project Structure
-```
-Attentions.ai_assignment/
-
-```
-
----
 
 ## Key Components
 
