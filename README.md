@@ -57,7 +57,7 @@ Welcome to the **One Day Travel Itenrary Planner**, a Streamlit-based applicatio
 
 ## Project Structure
 ```
-ai-vacation-planner/
+Attentions.ai_assignment/
 │
 ├── main.py                # Main application file
 ├── crewai/                # CrewAI module for managing agents and tasks
