@@ -58,21 +58,7 @@ Welcome to the **One Day Travel Itenrary Planner**, a Streamlit-based applicatio
 ## Project Structure
 ```
 Attentions.ai_assignment/
-│
-├── main.py                # Main application file
-├── crewai/                # CrewAI module for managing agents and tasks
-├── trip_agents/           # AI agents for trip planning
-│   ├── __init__.py
-│   ├── city_selection_agent.py
-│   ├── local_expert.py
-│   └── travel_concierge.py
-├── trip_tasks/            # Tasks for managing trip planning logic
-│   ├── __init__.py
-│   ├── identify_task.py
-│   ├── gather_task.py
-│   └── plan_task.py
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+
 ```
 
 ---
